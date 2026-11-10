@@ -1,7 +1,10 @@
 {
   "version": "1.0.0",
   "date": "2026-11-10",
-  "notes": ["Primeira versão: Lockon, Ordo, Silenz, Smoothr e Vozzy num painel só"],
+  "notes": [
+    "Primeira versão: Lockon, Ordo, Silenz, Smoothr e Vozzy num painel só",
+    "Reportar problema: copia um relatório pronto para o Claude"
+  ],
   "url": "https://github.com/Edueditor/unyx-updates/releases/latest/download/Unyx_completo.zip",
   "page": "https://github.com/Edueditor/unyx-updates"
 }

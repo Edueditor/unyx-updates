@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "date": "2026-11-10",
   "notes": [
-    "Lockon 1.4.2: clipes com original-marcador usam o proxy (antes o frame ficava preto)",
-    "A barra de atualização cabe inteira no painel"
+    "Silenz 1.3.2: Remover silêncios funciona com áudio solto na faixa de voz (ex.: áudio tratado abaixo)",
+    "Se o corte falhar, o motivo aparece na tela"
   ],
   "url": "https://github.com/Edueditor/unyx-updates/releases/latest/download/Unyx_completo.zip",
   "page": "https://github.com/Edueditor/unyx-updates"

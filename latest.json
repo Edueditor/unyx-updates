@@ -1,12 +1,12 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "date": "2026-11-11",
   "notes": [
-    "Agora o Unyx tem código de acesso. Depois de atualizar, você tem 7 dias para ativar: cole o código que recebeu ou clique em \"Pedir acesso\" e aguarde a liberação.",
-    "A barra embaixo do painel mostra quantos dias faltam. Até lá, tudo funciona normalmente."
+    "Vozzy: \"Só limpar\" e \"Limpar e reconstruir\" voltaram a funcionar.",
+    "Limpar cache do Vozzy não oferece mais apagar os motores."
   ],
-  "zxp": "https://github.com/Edueditor/unyx-updates/releases/download/v1.0.9/Unyx.zxp",
-  "sha256": "fae047c16ae3055e746b0d67f9946988934359cc26fe38274c2f00e0e4eb4910",
+  "zxp": "https://github.com/Edueditor/unyx-updates/releases/download/v1.0.10/Unyx.zxp",
+  "sha256": "2f3487d83178cac4cb44158bfb76eeeb4e7782a09ccf94e44cb341abd947f0d0",
   "url": "https://github.com/Edueditor/unyx-updates/releases/latest/download/Unyx_completo.zip",
   "page": "https://github.com/Edueditor/unyx-updates"
 }

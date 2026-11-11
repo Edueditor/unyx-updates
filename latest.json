@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "date": "2026-11-10",
   "notes": [
-    "Primeira versão: Lockon, Ordo, Silenz, Smoothr e Vozzy num painel só",
-    "Reportar problema: copia um relatório pronto para o Claude"
+    "Lockon 1.4.2: clipes com original-marcador usam o proxy (antes o frame ficava preto)",
+    "A barra de atualização cabe inteira no painel"
   ],
   "url": "https://github.com/Edueditor/unyx-updates/releases/latest/download/Unyx_completo.zip",
   "page": "https://github.com/Edueditor/unyx-updates"

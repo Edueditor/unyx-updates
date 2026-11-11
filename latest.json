@@ -1,9 +1,14 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "date": "2026-11-10",
   "notes": [
-    "Abrir a ajuda (?) verifica na hora se tem versão nova"
+    "Tudo pronto ao abrir: as 5 abas e os motores carregam juntos; motor parado entra em standby e acorda na hora de usar",
+    "Atualizar com 1 clique, direto no painel",
+    "O \"?\" verifica atualização na hora; Reportar problema com Copiar e Salvar arquivo",
+    "Silenz 1.3.3: lista de faixas compacta"
   ],
+  "zxp": "https://github.com/Edueditor/unyx-updates/releases/download/v1.0.5/Unyx.zxp",
+  "sha256": "030a6de968846639d92283f470c82ed16cd2bf9347502fa4b889ee12783a25d3",
   "url": "https://github.com/Edueditor/unyx-updates/releases/latest/download/Unyx_completo.zip",
   "page": "https://github.com/Edueditor/unyx-updates"
 }

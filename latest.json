@@ -1,12 +1,12 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "date": "2026-11-11",
   "notes": [
     "Agora o Unyx tem código de acesso. Depois de atualizar, você tem 7 dias para ativar: cole o código que recebeu ou clique em \"Pedir acesso\" e aguarde a liberação.",
-    "Enquanto isso, tudo continua funcionando normalmente; a data limite aparece na barra embaixo do painel."
+    "A barra embaixo do painel mostra quantos dias faltam. Até lá, tudo funciona normalmente."
   ],
-  "zxp": "https://github.com/Edueditor/unyx-updates/releases/download/v1.0.8/Unyx.zxp",
-  "sha256": "fce6d593775708ca82f75f259e36e444a18b9567b46dae242abc41277c5e416b",
+  "zxp": "https://github.com/Edueditor/unyx-updates/releases/download/v1.0.9/Unyx.zxp",
+  "sha256": "fae047c16ae3055e746b0d67f9946988934359cc26fe38274c2f00e0e4eb4910",
   "url": "https://github.com/Edueditor/unyx-updates/releases/latest/download/Unyx_completo.zip",
   "page": "https://github.com/Edueditor/unyx-updates"
 }

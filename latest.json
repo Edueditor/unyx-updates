@@ -1,9 +1,8 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "date": "2026-11-10",
   "notes": [
-    "Silenz 1.3.2: Remover silêncios funciona com áudio solto na faixa de voz (ex.: áudio tratado abaixo)",
-    "Se o corte falhar, o motivo aparece na tela"
+    "Versão de teste do aviso de atualização, sem mudanças"
   ],
   "url": "https://github.com/Edueditor/unyx-updates/releases/latest/download/Unyx_completo.zip",
   "page": "https://github.com/Edueditor/unyx-updates"
